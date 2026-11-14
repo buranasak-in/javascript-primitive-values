@@ -5,3 +5,4 @@ let numberOfSoldProduct = 12000;
 let numberOfProductInStock = undefined;
 
 console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
+// NaN (Not a Number) เพราะหาค่าไม่ได้ เพราะยังไม่ได้กำหนดค่าเป็น Number
